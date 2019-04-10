@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## A Gentle Introduction to Word Embeddings for the Computational Social Sciences
 
 You can use the [editor on GitHub](https://github.com/maximilianmozes/word-embeddings-tutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
