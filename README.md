@@ -1,12 +1,10 @@
-## A Gentle Introduction to Word Embeddings for the Computational Social Sciences
-
 Word embeddings represent an efficient tool to model the semantics of words in a computational fashion. They are hence widely-used in the field of natural language processing and find applications in a variety of language-related tasks. This workshop seeks to introduce word embeddings to researchers working across the computational social sciences. 
 
-The workshop will take place on September 2, 2019 at the [[2019 European Symposium Series on Societal Challenges in Computational Social Science](http://symposium.computationalsocialscience.eu/2019/)] in Zurich, Switzerland. 
+The workshop will take place on September 2, 2019 at the [2019 European Symposium Series on Societal Challenges in Computational Social Science](http://symposium.computationalsocialscience.eu/2019/)] in Zurich, Switzerland. 
 
 We invite researchers from the whole range of computational social science working with text data to participate in this workshop. Requirements for participants are a basic understanding of mathematical statistics and probability theory as well as a basic knowledge of the R programming language. 
 
-Questions in advance? Just send an email to Maximilian Mozes ([mozesmaj@gmail.com](mailto:mozesmaj@gmail.com)).
+Questions in advance? Ask us at [mozesmaj@gmail.com](mailto:mozesmaj@gmail.com).
 
 ### Introduction
 
@@ -16,10 +14,10 @@ In this workshop, we provide a theoretical and mathematical introduction as well
 
 ### Preliminary schedule
 
-| Activity                                 |   Timeframe   |
-| ---------------------------------------- | :-----------: |
-| Introduction to word embeddings and vector space models (history of computational semantics, formalisation of semantic structures, representing words with vectors, introduction to word2vec [2, 3] and GloVe [4]) | 09:00 - 10:00 |
-| Applications and limitations of word embedding models in the computational social sciences (political corpora, gang member identification, uncovering the meaning of unknown words, bias propagation, data reliance, niche language use, methodological limitations) | 10:00 - 10:30 |
+| Activity                                 | Timeframe     |
+| ---------------------------------------- | :------------ |
+| Introduction to word embeddings and vector space models (word2vec [2, 3] and GloVe [4]) | 09:00 - 10:00 |
+| Applications and limitations of word embedding models in the computational social sciences | 10:00 - 10:30 |
 | Coffee Break                             | 10:30 - 11:00 |
 | Blind question round                     | 11:00 - 11:30 |
 | Practical session: Developing vector space models in R | 11:30 - 12:30 |
