@@ -4,7 +4,7 @@ The workshop will take place on September 2, 2019 at the [2019 European Symposiu
 
 We invite researchers from the whole range of computational social science working with text data to participate in this workshop. Requirements for participants are a basic understanding of mathematical statistics and probability theory as well as a basic knowledge of the R programming language. 
 
-Questions in advance? Ask us at [mozesmaj@gmail.com](mailto:mozesmaj@gmail.com).
+Questions in advance? Send an email to [mozesmaj@gmail.com](mailto:mozesmaj@gmail.com).
 
 ### Introduction
 
