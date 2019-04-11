@@ -1,4 +1,4 @@
-Word embeddings are allow us to model the semantics of words in a computational manner. They are hence widely used in the field of natural language processing and find applications in a variety of language-related tasks. This workshop seeks to introduce word embeddings to researchers working across the computational social sciences. 
+Word embeddings allow us to model the semantics of words in a computational manner. They are hence widely used in the field of natural language processing and find applications in a variety of language-related tasks. This workshop seeks to introduce word embeddings to researchers working across the computational social sciences. 
 
 The workshop will take place on September 2, 2019 at the [2019 European Symposium on Societal Challenges in Computational Social Science](http://symposium.computationalsocialscience.eu/2019/) in Zurich, Switzerland. 
 
