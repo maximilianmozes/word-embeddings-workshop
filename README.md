@@ -14,14 +14,14 @@ The availability of large digital corpora (collections of texts) as well as the 
 
 In this workshop, we provide a theoretical and mathematical introduction as well as an overview of potential applications of vector space models and word embeddings in the social sciences. We thereby highlight the suitability of word embeddings for interdisciplinary tasks dealing with text data and also illustrate the limitations of this heavily data-reliant framework. In doing so, we aim to equip researchers with a critical understanding of and the practical knowledge to implement these advanced approaches to open up new avenues of research in their specific areas of expertise. 
 
-Furthermore, we are happy to announce that [Laura Burdick](https://wendlandt.github.io) from the [University of Michigan's Artificial Intelligence Lab](https://ai.eecs.umich.edu) will be giving a guest talk on her research on word embeddings during our workshop.  
+Furthermore, we are happy to announce that [Laura Burdick](http://laura-burdick.github.io/) from the [University of Michigan's Artificial Intelligence Lab](https://ai.eecs.umich.edu) will be giving a guest talk on her research on word embeddings during our workshop.  
 
 ### Preliminary schedule
 
 | Activity                                 | Timeframe     |
 | ---------------------------------------- | :------------ |
 | Introduction to word embeddings and vector space models (*word2vec* [2, 3] and *GloVe* [4]) | 09:00 - 10:00 |
-| Applications and limitations of word embedding models in the computational social sciences; guest talk by [Laura Burdick](http://wendlandt.github.io/) (University of Michigan) | 10:00 - 10:30 |
+| Applications and limitations of word embedding models in the computational social sciences; guest talk by [Laura Burdick](http://laura-burdick.github.io/) | 10:00 - 10:30 |
 | Coffee break                             | 10:30 - 11:00 |
 | Blind question round                     | 11:00 - 11:30 |
 | Practical session: developing vector space models in R | 11:30 - 12:30 |
