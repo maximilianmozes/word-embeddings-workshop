@@ -21,14 +21,14 @@ Furthermore, we are happy to announce that [Laura Burdick](http://laura-burdick.
 | Activity                                 | Timeframe     |
 | ---------------------------------------- | :------------ |
 | Introduction to word embeddings and vector space models (*word2vec* [2, 3] and *GloVe* [4]) | 09:00 - 10:00 |
-| Applications and limitations of word embedding models in the computational social sciences; guest talk by [Laura Burdick](http://laura-burdick.github.io/) | 10:00 - 10:30 |
-| Coffee break                             | 10:30 - 11:00 |
-| Blind question round                     | 11:00 - 11:30 |
-| Practical session: developing vector space models in R | 11:30 - 12:30 |
+| Applications and limitations of word embedding models in the computational social sciences; guest talk by [Laura Burdick](http://laura-burdick.github.io/) | 10:00 - 11:15 |
+| Coffee break                             | 11:15 - 11:30 |
+| Blind question round                     | 11:30 - 12:00 |
+| Practical session: developing vector space models in python and R | 12:00 - 12:30 |
 
 ### Outcomes
 
-This workshop will help participants to understand the fundamental theory of vector space models and will provide them with potential applications of these methods for interdisciplinary tasks. Furthermore, participants will learn how to implement word embeddings models in a straightforward way using the R programming language.
+This workshop will help participants to understand the fundamental theory of vector space models and will provide them with potential applications of these methods for interdisciplinary tasks. Furthermore, participants will learn how to implement word embeddings models in a straightforward way using the R and python programming languages.
 
 
 ### Organisers
