@@ -40,10 +40,10 @@ This workshop will help participants to understand the fundamental theory of vec
 
 ### References
 
-[1] D. Jurafsky and J. H. Martin, “Speech and Language Processing 3rd ed. draft.” [Online]. Available at: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/). [Accessed: 09-Mar-2019].
+[1] D. Jurafsky and J. H. Martin. “Speech and Language Processing 3rd ed. draft.” [Online]. Available at: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/). [Accessed: 09-Mar-2019].
 
-[2] T. Mikolov, W. Yih, and G. Zweig, “Linguistic regularities in continuous space word representations.,” in NAACL-HLT, 2013, vol. 13, pp. 746–751.
+[2] T. Mikolov, K. Chen, G. Corrado, and J. Dean, 2013. "Efficient estimation of word representations in vector space". In arXiv preprint arXiv:1301.3781.
 
-[3] T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado, and J. Dean, “Distributed Representations of Words and Phrases and their Compositionality,” in Advances in Neural Information Processing Systems, 2013, pp. 3111–3119.
+[3] T. Mikolov, I. Sutskever, K. Chen, G. S. Corrado, and J. Dean, 2013. “Distributed Representations of Words and Phrases and their Compositionality”. In Advances in Neural Information Processing Systems, 2013, pp. 3111–3119.
 
-[4] J. Pennington, R. Socher, and C. Manning, “Glove: Global Vectors for Word Representation,” in Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), Doha, Qatar, 2014, pp. 1532–1543.
+[4] J. Pennington, R. Socher, and C. Manning, 2014. “Glove: Global Vectors for Word Representation”. In Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing (EMNLP), Doha, Qatar, pp. 1532–1543.
